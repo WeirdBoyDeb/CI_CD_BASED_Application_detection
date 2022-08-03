@@ -18,3 +18,16 @@ pip install -r requiements.txt [in cmd]
 To check git status
 ```
 git status [all git command in cmd]
+```
+Fetch & push
+```
+git remote -v
+```
+To track all the files
+```
+git add .
+```
+stage state to origin state push
+```
+git commit -m "Commited by Sandip on 04/08/22"
+```
