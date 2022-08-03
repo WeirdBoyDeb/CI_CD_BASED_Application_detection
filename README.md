@@ -31,3 +31,14 @@ stage state to origin state push
 ```
 git commit -m "Commited by Sandip on 04/08/22"
 ```
+Set accounts default identity (Name)
+```
+git config --global user.name "John Doe"
+```
+Set accounts default identity (email.id)
+```
+git config --global user.email johndoe@example.com
+```
+Push to reposetry from origin state
+```
+git push origin main
