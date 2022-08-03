@@ -42,3 +42,10 @@ git config --global user.email johndoe@example.com
 Push to reposetry from origin state
 ```
 git push origin main
+```
+To setup ci/cd pipeline we need this 3 steps
+```
+HEROKU_EMAIL=sandeeproy0605@gmail.com
+HEROKU_API_KEY=75dc29ba-62cc-4af4-b2b9-fe10bb3c17e2
+HEROKU_APP_NAME=cicd-based4application
+```
